@@ -1,0 +1,41 @@
+.btn-danger {
+    background-color: #00CCBC;
+    border-color: #00CCBC;
+}
+
+.btn-danger:hover {
+    background-color: #15978c;
+    border-color: #27b3a7;
+}
+
+.btn-danger:focus,
+.btn-danger.focus {
+    background-color: #15978c;
+    border-color: #27b3a7;
+}
+
+.btn-danger.disabled,
+.btn-danger:disabled {
+    background-color: #00CCBC;
+    border-color: #00CCBC;
+}
+
+.btn-danger:not(:disabled):not(.disabled):active,
+.btn-danger:not(:disabled):not(.disabled).active,
+.show>.btn-danger.dropdown-toggle {
+    background-color: #27b3a7;
+    border-color: #27b3a7;
+}
+
+.sidebar-dark-danger .nav-sidebar>.nav-item>.nav-link.active,
+.sidebar-light-danger .nav-sidebar>.nav-item>.nav-link.active {
+    background-color: #00CCBC;
+}
+
+.navbar-danger {
+    background-color: #00CCBC;
+}
+
+.card-maroon.card-outline {
+    border-color: #00CCBC;
+}
